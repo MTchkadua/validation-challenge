@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/validation-challenge/static/css/main.b696eb70.css",
+    "main.js": "/validation-challenge/static/js/main.284c6475.js",
+    "static/media/SpaceGrotesk-Regular.ttf": "/validation-challenge/static/media/SpaceGrotesk-Regular.cd122fff461815293cfe.ttf",
+    "static/media/bg-main-desktop.png": "/validation-challenge/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/validation-challenge/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/validation-challenge/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "index.html": "/validation-challenge/index.html",
+    "main.b696eb70.css.map": "/validation-challenge/static/css/main.b696eb70.css.map",
+    "main.284c6475.js.map": "/validation-challenge/static/js/main.284c6475.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b696eb70.css",
+    "static/js/main.284c6475.js"
+  ]
+}
